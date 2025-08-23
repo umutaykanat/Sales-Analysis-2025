@@ -16,7 +16,7 @@ Veri seti, 2019 yılına ait 12 aylık sipariş bilgilerini içermektedir.
 - `Order Date`: Sipariş tarihi  
 - `Purchase Address`: Siparişin yapıldığı adres  
 
-📌 Veri seti burada **örnek olarak bir alt küme** paylaşılmıştır. Tüm veriye erişim için [Kaggle Dataset Linki](https://www.kaggle.com/datasets/knightbearr/sales-product-data) (örnek) kullanılabilir.  
+📌 Veri seti burada **örnek olarak bir alt küme** paylaşılmıştır. 
 
 ---
 
